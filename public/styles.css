@@ -285,7 +285,7 @@ footer{
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  max-width: 900px;
+  max-width: 400px;
   margin: 0 auto 1.5rem;
 }
 
@@ -324,3 +324,4 @@ footer{
   margin: 0 auto 1.5rem;
   padding-bottom: 1rem;
 }
+
